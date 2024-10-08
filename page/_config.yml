@@ -1,7 +1,10 @@
-title: [Ninebot MAX G2 SHFW Settings]
+title: [Ninebot MAX G2]
 description: [SHFW settings and instructions]
-show_downloads: ["false"]
+
+# Google Analytics
 google_analytics: [G-R8SLS8JP95]
+
+# Jekyll plugins
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
